@@ -33,5 +33,3 @@ The app intelligently converts your natural language questions into SQL queries,
 - **SQLAlchemy** – Database connectivity
 
 ---
-
-## 📂 Project Structure
